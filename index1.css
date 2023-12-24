@@ -1,0 +1,23 @@
+/* For tablets */
+@media screen and (max-width: 1024px) {
+    .about {
+        top: 120%; /* Adjust positioning */
+    }
+
+    .icons1 {
+        top: 190%; /* Adjust positioning */
+        left: 32%; /* Adjust positioning */
+    }
+}
+
+/* For mobile devices */
+@media screen and (max-width: 700px) {
+    .about {
+        top: 130%; /* Adjust positioning */
+    }
+
+    .icons1 {
+        top: 200%; /* Adjust positioning */
+        left: 30%; /* Adjust positioning */
+    }
+}
